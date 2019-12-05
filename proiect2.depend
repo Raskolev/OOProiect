@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1574948170 source:c:\users\marius\desktop\proiect2\main.cpp
+	<iostream>
+	<fstream>
+	<conio.h>
+
+1575546030 source:c:\users\marius\desktop\ceva bun pentru prezentat\proiect2\main.cpp
+	<iostream>
+	<fstream>
+	<conio.h>
+
